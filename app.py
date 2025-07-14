@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 import time
 from datetime import datetime
+import serpapi
 from serpapi import GoogleSearch
 
 st.set_page_config(page_title="Sentiment Alert Tracker", layout="centered")
