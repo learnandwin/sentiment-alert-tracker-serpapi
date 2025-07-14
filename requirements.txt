@@ -1,4 +1,4 @@
 streamlit
+serpapi==0.7.1
 pandas
 requests
-serpapi
